@@ -1,0 +1,43 @@
+#logo {font-family: 'Vibur', cursive;}
+
+
+
+.inline{
+display: inline;
+}
+
+
+
+.carousel-inner > .item > img{ 
+    margin:auto; 
+    width:100% 
+}
+
+
+#rowFix{
+    position: fixed;
+    top: 0;
+}
+
+#bg{
+    background: 969191;
+}
+
+
+.form-right{
+ width: 100% !important;
+ justify-content: flex-end !important;
+}
+
+
+.storyparagraph{
+    
+    position: absolute;
+    width: 100%;
+    text-align: center;
+}
+
+
+#toprow{
+    padding-bottom: 30px;
+}
